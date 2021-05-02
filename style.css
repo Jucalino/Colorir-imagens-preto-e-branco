@@ -1,0 +1,15 @@
+.wrapper-add-photo {
+  background-color: rgb(214, 200, 200);
+}
+
+#formFile {
+  background-color: rgb(214, 200, 200);
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.img-thumbnail {
+  width: 400px;
+}
